@@ -8,13 +8,12 @@ title: Vinícius Gabriel Linden
 # Vinícius Gabriel Linden
 Embedded Engineer | Firmware Developer
 
-
 [viniciusglinden@protonmail.com](mailto:viniciusglinden@protonmail.com)
 | [viniciuslinden.xyz](https://viniciusglinden.xyz)
 {: .webaddress}
 
-Full product development: from requirements to design through documentation,
-prototyping, product & testing
+Full product development: from requirements to design through
+<br/>documentation, prototyping, product & testing
 
 ### Skills
 
@@ -22,7 +21,8 @@ prototyping, product & testing
 C, C++, Python, CMake, Rust, Kotlin, VHDL, Bash
 
 `Tools`
-Linux, RTOS, Gitlab, Continuous Integration (CI), PCB Design, SQL, REST, OpenAPI, Automation, Agile Methodology
+Linux, RTOS, Gitlab, Continuous Integration (CI), PCB Design, SQL,
+<br/>REST, OpenAPI, Automation, Agile Methodology, FPGA
 
 ## Occupation
 
@@ -98,8 +98,8 @@ __Unisinos University__, São Leopoldo, Brazil
 `Feb 2014 - Jun 2015`
 __Université Grenoble Alpes__, Grenoble, France
 - _Master I Student_
-- Électronique Électrotechnique et Traitement du Signal: Systèmes d'Énergie
-  Électrique
+- Électronique Électrotechnique et Traitement du Signal:<br/>
+  Systèmes d'Énergie Électrique
 - Full scholarship during graduation studies
 
 `Feb 2012 - Aug 2018`
@@ -127,5 +127,4 @@ EU, Brazilian
 ### Last update
 
 2025-06-13
-
 
