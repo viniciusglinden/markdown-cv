@@ -10,6 +10,7 @@ Embedded Engineer | Firmware Developer
 
 [viniciusglinden@protonmail.com](mailto:viniciusglinden@protonmail.com)
 | [viniciuslinden.xyz](https://viniciusglinden.xyz)
+| [linkedin.com/in/viniciusglinden](https://www.linkedin.com/in/viniciusglinden/)
 {: .webaddress}
 
 Full product development: from requirements to design through
