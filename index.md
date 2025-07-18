@@ -9,7 +9,7 @@ title: Vinícius Gabriel Linden
 Embedded Engineer | Firmware Developer
 
 [viniciusglinden@protonmail.com](mailto:viniciusglinden@protonmail.com)
-| [viniciuslinden.xyz](https://viniciusglinden.xyz)
+| [viniciuslinden.xyz](https://viniciuslinden.xyz)
 | [linkedin.com/in/viniciusglinden](https://www.linkedin.com/in/viniciusglinden/)
 {: .webaddress}
 
